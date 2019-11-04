@@ -18,8 +18,8 @@ Snake game for CS349 A3.
 
 ## Notes
 * if a fruit appears at a position where the snake is currently moving through, it will consider the fruit as "eaten"
-		- this can happen when changing between levels and for randomly generated fruits
-		- you might not see the fruit appear since the snake is already on it, but you will hear the sound effect
+	- this can happen when changing between levels and for randomly generated fruits
+	- you might not see the fruit appear since the snake is already on it, but you will hear the sound effect
 
 
 Bonus features:
