@@ -3,6 +3,7 @@ Snake game for CS349 A3.
 
 ## Instructions to Run the Game
 * ensure that the font 'verdana' is installed and available
+* set export JAVA_FX_HOME=/Library/javafx-sdk-13.0.1/
 * navigate to the a3/ folder and run the program by typing 'make run'
 * select one of the 3 levels on the starting screen with your mouse to start
 
